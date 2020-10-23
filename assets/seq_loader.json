@@ -1,0 +1,250 @@
+{ 
+    "sounds": {
+        "files": [
+            {
+                "type": "audio",
+                "key": "menu",
+                "url": "/sounds/menu.wav"
+            },
+       {
+                "type": "audio",
+                "key": "tick",
+                "url": "/sounds/tick.wav"
+            },
+        {
+                "type": "audio",
+                "key": "exp",
+                "url": "/sounds/exp.wav"
+            },
+         {
+                "type": "audio",
+                "key": "success",
+                "url": "/sounds/suc3.wav"
+            }
+         ]
+ 
+         },	
+    "numberblock": {
+        "files": [
+          {
+                "type": "image",
+                "key": "black",
+                "url": "/images/black_rect.png"
+            },
+           {
+                "type": "image",
+                "key": "reverse",
+                "url": "/images/reversed.png"
+            },
+ 
+            {
+                "type": "image",
+                "key": "0yellow",
+                "url": "/images/Number_Blocks/number_0.png"
+            },
+       {
+                "type": "image",
+                "key": "1yellow",
+                "url": "/images/Number_Blocks/number_1.png"
+            },
+       {
+                "type": "image",
+                "key": "2yellow",
+                "url": "/images/Number_Blocks/number_2.png"
+            },
+       {
+                "type": "image",
+                "key": "3yellow",
+                "url": "/images/Number_Blocks/number_3.png"
+            },
+       {
+                "type": "image",
+                "key": "4yellow",
+                "url": "/images/Number_Blocks/number_4.png"
+            },
+ 
+     {
+                "type": "image",
+                "key": "5yellow",
+                "url": "/images/Number_Blocks/number_5.png"
+            },
+       {
+                "type": "image",
+                "key": "6yellow",
+                "url": "/images/Number_Blocks/number_6.png"
+            },
+       {
+                "type": "image",
+                "key": "7yellow",
+                "url": "/images/Number_Blocks/number_7.png"
+            },
+       { 
+                "type": "image",
+                "key": "8yellow",
+                "url": "/images/Number_Blocks/number_8.png"
+            },
+       {
+                "type": "image",
+                "key": "9yellow",
+                "url": "/images/Number_Blocks/number_9.png"
+            },
+          {
+                "type": "image",
+                "key": "0red",
+                "url": "/images/Number_Blocks/number_0_red.png"
+            },
+       {
+                "type": "image",
+                "key": "1red",
+                "url": "/images/Number_Blocks/number_1_red.png"
+            },
+       {
+                "type": "image",
+                "key": "2red",
+                "url": "/images/Number_Blocks/number_2_red.png"
+            },
+       {
+                "type": "image",
+                "key": "3red",
+                "url": "/images/Number_Blocks/number_3_red.png"
+            },
+       {
+                "type": "image",
+                "key": "4red",
+                "url": "/images/Number_Blocks/number_4_red.png"
+            },
+ 
+     {
+                "type": "image",
+                "key": "5red",
+                "url": "/images/Number_Blocks/number_5_red.png"
+            },
+       {
+                "type": "image",
+                "key": "6red",
+                "url": "/images/Number_Blocks/number_6_red.png"
+            },
+       {
+                "type": "image",
+                "key": "7red",
+                "url": "/images/Number_Blocks/number_7_red.png"
+            },
+ 
+       {
+                "type": "image",
+                "key": "8red",
+                "url": "/images/Number_Blocks/number_8_red.png"
+            },
+       {
+                "type": "image",
+                "key": "9red",
+                "url": "/images/Number_Blocks/number_9_red.png"
+            },
+              {
+                "type": "image",
+                "key": "0blue",
+                "url": "/images/Number_Blocks/number_0_blue.png"
+            },
+         {
+                "type": "image",
+                "key": "1blue",
+                "url": "/images/Number_Blocks/number_1_blue.png"
+            },
+       {
+                "type": "image",
+                "key": "2blue",
+                "url": "/images/Number_Blocks/number_2_blue.png"
+            },
+       {
+                "type": "image",
+                "key": "3blue",
+                "url": "/images/Number_Blocks/number_3_blue.png"
+            },
+       {
+                "type": "image",
+                "key": "4blue",
+                "url": "/images/Number_Blocks/number_4_blue.png"
+            },
+ 
+     {
+                "type": "image",
+                "key": "5blue",
+                "url": "/images/Number_Blocks/number_5_blue.png"
+            },
+       {
+                "type": "image",
+                "key": "6blue",
+                "url": "/images/Number_Blocks/number_6_blue.png"
+            },
+       {
+                "type": "image",
+                "key": "7blue",
+                "url": "/images/Number_Blocks/number_7_blue.png"
+            },
+ 
+       {
+                "type": "image",
+                "key": "8blue",
+                "url": "/images/Number_Blocks/number_8_blue.png"
+            },
+       {
+                "type": "image",
+                "key": "9blue",
+                "url": "/images/Number_Blocks/number_9_blue.png"
+            },  
+    {
+                "type": "image",
+                "key": "0green",
+                "url": "/images/Number_Blocks/number_0_green.png"
+            },    
+       {
+                "type": "image",
+                "key": "1green",
+                "url": "/images/Number_Blocks/number_1_green.png"
+            },
+     {
+                "type": "image",
+                "key": "2green",
+                "url": "/images/Number_Blocks/number_2_green.png"
+            },
+     {
+                "type": "image",
+                "key": "3green",
+                "url": "/images/Number_Blocks/number_3_green.png"
+            },
+     {
+                "type": "image",
+                "key": "4green",
+                "url": "/images/Number_Blocks/number_4_green.png"
+            },
+ 
+   {
+                "type": "image",
+                "key": "5green",
+                "url": "/images/Number_Blocks/number_5_green.png"
+            },
+     {
+                "type": "image",
+                "key": "6green",
+                "url": "/images/Number_Blocks/number_6_green.png"
+            },
+     {
+                "type": "image",
+                "key": "7green",
+                "url": "/images/Number_Blocks/number_7_green.png"
+            },
+ 
+     {
+                "type": "image",
+                "key": "8green",
+                "url": "/images/Number_Blocks/number_8_green.png"
+            },
+     {
+                "type": "image",
+                "key": "9green",
+                "url": "/images/Number_Blocks/number_9_green.png"
+            }
+     
+        ]
+    }
+ }

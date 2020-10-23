@@ -1,0 +1,15 @@
+#phaser-container{
+  border-style: double;
+  border-width: 15px;
+  padding: 20px;
+  background-color: #787878;
+  margin: 0 auto;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 1140px;
+  padding: 15px;
+  display: flex;
+
+}
